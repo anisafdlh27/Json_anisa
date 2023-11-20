@@ -25,7 +25,7 @@
     "Penerbit": "Pustaka Nasional",
     "TahunTerbit": "1939",
     "JumlahHalaman": "407 Halaman",
-    "Poster": " https://cdn.gramedia.com/uploads/items/img067.jpg "
+    "Poster": "https://cdn.gramedia.com/uploads/items/img067.jpg"
   },
   {
     "Buku": "4",
@@ -34,7 +34,7 @@
     "Penerbit": "Republika",
     "TahunTerbit": "2004",
     "JumlahHalaman": "312 Halaman",
-    "Poster": " https://upload.wikimedia.org/wikipedia/id/b/b4/Ayatayatcinta.jpg "
+    "Poster": "https://upload.wikimedia.org/wikipedia/id/b/b4/Ayatayatcinta.jpg"
   },
   {
     "Buku": "5",
@@ -43,7 +43,7 @@
     "Penerbit": "Bentang Pustaka",
     "TahunTerbit": "2011",
     "JumlahHalaman": "296 halaman",
-    "Poster": " https://upload.wikimedia.org/wikipedia/id/0/0c/Cinta_di_Dalam_Gelas.jpg "
+    "Poster": "https://upload.wikimedia.org/wikipedia/id/0/0c/Cinta_di_Dalam_Gelas.jpg"
   },
   {
     "Buku": "6",
@@ -52,7 +52,7 @@
     "Penerbit": "Bentang Pustaka",
     "TahunTerbit": "2009",
     "JumlahHalaman": "368 Halaman",
-    "Poster": " https://s3-ap-southeast-1.amazonaws.com/ebook-previews/31752/100792/1.jpg "
+    "Poster": "https://s3-ap-southeast-1.amazonaws.com/ebook-previews/31752/100792/1.jpg"
   },
   {
     "Buku": "7",
@@ -61,7 +61,7 @@
     "Penerbit": "Kepustakaan Populer Gramedia",
     "TahunTerbit": "2012",
     "JumlahHalaman": "528 Halaman",
-    "Poster": " https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465061573i/16174176.jpg"
+    "Poster": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465061573i/16174176.jpg"
   },
   {
     "Buku": "8",
@@ -70,7 +70,7 @@
     "Penerbit": "Lentera Dipantara",
     "TahunTerbit": "1982",
     "JumlahHalaman": "370 Halaman",
-    "Poster": " https://s3-ap-southeast-1.amazonaws.com/ebook-previews/53333/200748/1.jpg"
+    "Poster": "https://s3-ap-southeast-1.amazonaws.com/ebook-previews/53333/200748/1.jpg"
   },
   {
     "Buku": "9",
@@ -79,7 +79,7 @@
     "Penerbit": "Bentang Pustaka",
     "TahunTerbit": "2006",
     "JumlahHalaman": "407 Halaman",
-    "Poster": " https://upload.wikimedia.org/wikipedia/id/8/89/Sang_Pemimpi_sampul.jpg"
+    "Poster": "https://upload.wikimedia.org/wikipedia/id/8/89/Sang_Pemimpi_sampul.jpg"
   },
   {
     "Buku": "10",
@@ -88,7 +88,7 @@
     "Penerbit": "Bentang Pustaka",
     "TahunTerbit": "2003",
     "JumlahHalaman": "220 Halaman",
-    "Poster": " https://bukumojok.com/wp-content/uploads/2022/08/1_CTPTW.jpg"
+    "Poster": "https://bukumojok.com/wp-content/uploads/2022/08/1_CTPTW.jpg"
   }
  ]
 }
